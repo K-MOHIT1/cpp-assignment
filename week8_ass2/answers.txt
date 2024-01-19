@@ -1,0 +1,5 @@
+1)O(n*(n^1/2))
+2)O(n*logn)
+3)O(n*logn)
+4)O(n)
+5)O(n*logn)
